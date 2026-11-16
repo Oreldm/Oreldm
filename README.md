@@ -4,7 +4,7 @@
 
 **Automation Infrastructure @ CrowdStrike** · ex IDF Unit 81 · ex Palo Alto Networks
 
-[![Website](https://img.shields.io/badge/orel.dev-111?style=flat-square&logo=googlechrome&logoColor=white)](https://oreldm-dev.web.app)
+[![Website](https://img.shields.io/badge/orel.dev-111?style=flat-square&logo=googlechrome&logoColor=white)](https://orel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oreldm)
 
 </div>
