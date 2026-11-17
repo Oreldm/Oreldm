@@ -15,7 +15,7 @@
 |---|---|
 | 🚀 **[Spacell](https://play.google.com/store/apps/details?id=dev.oreldm.spacell)** | Real-time online space arena for Android. Unity, a Mirror dedicated server on GCP, and my own analytics pipeline. Live on Google Play. |
 | 🎲 **[PipRank](https://piprank.com)** | Backgammon online against real players, on web, Android and iOS. |
-| 🎯 **[CS2 Demo Lab](https://cs2demolab.com)** | CS2 demo analysis that runs on your own PC. |
+| 🎯 **[CS2 Demo Lab](https://cs2demolab.com)** | CS2 demo analyzer for Windows: your costliest mistakes, why you died, every grenade and anti-strat from opponent demos, with any moment opened in real CS2. Runs on your own PC. [How I built it](https://oreldm-dev.web.app/cs2-demo-lab) |
 | 📘 **[git-handbook](https://github.com/Oreldm/git-handbook)** | A practical reference page for every Git command. |
 
 ### Stack
